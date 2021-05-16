@@ -1,0 +1,27 @@
+div {
+   margin: 20px;
+   border-radius: 10px;
+   background-color:rgb(199, 225, 235);
+   padding: 1px;
+  
+   
+   
+}
+button{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+ body{
+     background-image: url(../img/ABSTRACT_BACKGROUND_01.jpg);
+ }
+
+.dev{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    
+}
+
+img{
+    width: 50%;
+}
